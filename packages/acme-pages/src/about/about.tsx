@@ -6,7 +6,7 @@ export default function About(): React.ReactNode {
     <Page>
       <Navbar />
       <Text variant="h1" className="mb-6">
-        About
+        About Oat
       </Text>
       <Text>
         This is the about page, defined in{' '}
